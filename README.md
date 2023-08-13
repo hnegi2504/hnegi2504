@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/wgusacz7wuUOk/giphy.gif" height="300 px" width="1200px">
 <h1 align="center">Hi 👋, I'm Himanshi Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
