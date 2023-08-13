@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshi Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<center>
-  <img src ="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
-</center>  
+<p align="center">
+  <img src ="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" height="500px" width=" 600px" align="centre">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnegi2504&label=Profile%20views&color=0e75b6&style=flat" alt="hnegi2504" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnegi2504" alt="hnegi2504" /></a> </p>
