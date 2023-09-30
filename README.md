@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnegi2504" alt="hnegi2504" /></a> </p>
 
-//- 🔭 I’m currently working on **Blood Bank App**
-
-- 🌱 I’m currently learning **React js and Next js**
+- 🌱 I’m currently learning **React js **
 
 - 👨‍💻 All of my projects are available at [https://hnegi2504.github.io/portfolio-website/](https://hnegi2504.github.io/portfolio-website/)
 
